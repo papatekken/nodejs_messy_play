@@ -3,6 +3,9 @@
 play around with node js in Express Framework, functions in the project are changing time by time
 
 
-folder <lab> contains different sets of short code for practise features in node js
+#lab
+- Folder <lab> contains different sets of short code for practise features in node js
+- Top of each file contains instruction on how to run the code file
+
 
 Allan Yip
