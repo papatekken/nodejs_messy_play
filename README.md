@@ -7,5 +7,12 @@ play around with node js in Express Framework, functions in the project are chan
 - Folder <lab> contains different sets of short code for practise features in node js
 - Top of each file contains instruction on how to run the code file
 
+#chatRoom
+- Chatroom Implementation for multiple users
+- not yet finish
+
+#Auth
+- Auth0 was applied for authentication
+- not yet start
 
 Allan Yip
