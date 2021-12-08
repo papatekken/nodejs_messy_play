@@ -3,15 +3,15 @@
 play around with node js in Express Framework, functions in the project are changing time by time
 
 
-#lab
+## lab
 - Folder <lab> contains different sets of short code for practise features in node js
 - Top of each file contains instruction on how to run the code file
 
-#chatRoom
+## chatRoom
 - Chatroom Implementation for multiple users
 - not yet finish
 
-#Auth
+## auth
 - Auth0 was applied for authentication
 - not yet start
 
