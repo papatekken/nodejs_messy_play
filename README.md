@@ -13,6 +13,6 @@ play around with node js in Express Framework, functions in the project are chan
 
 ## auth
 - Auth0 was applied for authentication
-- not yet start
+
 
 Allan Yip

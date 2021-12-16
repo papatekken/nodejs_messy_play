@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  .w3-card-4
+    h2 Welcome #{user.nickname}
+    img(src=user.picture)
+    h2 User profile
+    p Allow edit profile later
+    p
+    p This is the content of <code>req.user</code>.
+    
+    pre
+      code #{userProfile}
