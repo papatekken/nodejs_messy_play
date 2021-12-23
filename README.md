@@ -14,5 +14,7 @@ play around with node js in Express Framework, functions in the project are chan
 ## auth
 - Auth0 was applied for authentication
 
+## connect-flash
+- run Connect-flash example page
 
 Allan Yip
